@@ -1,0 +1,662 @@
+{
+    "CountryData": {
+      "Afghanistan": {
+        "Document": {
+          "Passport": {
+            "size": "34*40",
+            "type": "MM"
+          }
+        }
+      },
+      "Albania": {
+        "Document": {
+          "Passport": {
+            "size": "40*50",
+            "type": "MM"
+          }
+        }
+      },
+      "Argentina": {
+        "Document": {
+          "Passport": {
+            "size": "40*40",
+            "type": "mm"
+          }
+        }
+      },
+      "Australia": {
+        "Document": {
+          "Passport": {
+            "size": "40*50",
+            "type": "mm"
+          }
+        }
+      },
+      "Austria": {
+        "Document": {
+          "Passport": {
+            "size": "34*45",
+            "type": "mm"
+          }
+        }
+      },
+      "Bahamas": {
+        "Document": {
+          "Passport": {
+            "size": "2*2",
+            "type": "inch"
+          }
+        }
+      },
+      "Bangladesh": {
+        "Document": {
+          "Passport": {
+            "size": "2*2",
+            "type": "inch"
+          }
+        }
+      },
+      "Belarus": {
+        "Document": {
+          "Passport": {
+            "size": "40*50",
+            "type": "mm"
+          }
+        }
+      },
+      "Belgium": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type": "mm"
+          }
+        }
+      },
+      "Belize": {
+        "Document": {
+          "Passport": {
+            "size": "2*2",
+            "type": "inch"
+          }
+        }
+      },
+      "Bolivia": {
+        "Document": {
+          "Passport": {
+            "size": "2*2",
+            "type": "inch"
+          }
+        }
+      },
+      "Brazil": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type": "mm"
+          },
+          "VISA" : {
+            "size" : "2*2",
+            "type": "inch"
+          }
+        }
+      },
+      "Bulgaria": {
+        "Document": {
+            "Passport": {
+              "size": "35*45",
+              "type": "mm"
+            }
+          }
+      },
+      "Canada": {
+        "Document": {
+          "Passport": {
+            "size": "50*70",
+            "type": "mm"
+          },
+          "OtherPurposes": {
+            "size" : "35*45",
+            "type": "mm"
+          }
+        }
+      },
+      "China": {
+        "Document": {
+          "Passport": {
+            "size": "38*48",
+            "type": "mm"
+          },
+          "VISA" : {
+            "size" : "2*2",
+            "type" :"inch"
+          }
+        }
+      },
+      "Colombia": {
+        "Document": {
+          "Passport": {
+            "size": "1.5*2.5",
+            "type" : "inch"
+          },
+          "VISA" : {
+            "size":"2*2",
+            "type" :"inch"
+          }
+        }
+      },
+      "CostaRica": {
+        "Document": {
+          "Passport": {
+            "size": "2*2",
+            "type":"inch"
+          }
+        }
+      },
+      "Croatia": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          },
+          "DriverLicense": {
+            "size":"30*35",
+            "type":"mm"
+          }
+        }
+      },
+      "Cyprus" : {
+        "Passport" :{
+            "size": "40*50",
+            "type":"mm"
+        }
+      },   
+      "CzechRepublic" : {
+        "Passport" :{
+            "size": "35*45",
+            "type":"mm"
+        }
+      },
+      "Denmark": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "Estonia": {
+        "Document": {
+          "Passport": {
+            "size": "40*50",
+            "type": "mm"
+          },
+          "VISA":{
+            "size":"36*47",
+            "type" :"mm"
+          }
+        }
+      },
+      "European Union": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "Finland": {
+        "Document": {
+          "Passport": {
+            "size": "36*47",
+            "type" : "mm"
+          },
+          "VISA": {
+            "size": "36*47",
+            "type" : "mm"
+          }
+        }
+      },
+      "France": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "Germany": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type": "mm"
+          }
+        }
+      },
+      "Greece": {
+        "Document": {
+          "Passport": {
+            "size": "40*60",
+            "type": "mm"
+          },
+          "VISA": {
+            "size": "40*60",
+            "type": "mm"
+          }
+        }
+      },
+      "Hongkong": {
+        "Document": {
+          "Passport": {
+            "size": "40*50",
+            "type":"mm"
+          },
+          "VISA": {
+            "size": "40*50",
+            "type":"mm"
+          }
+        }
+      },
+      "Hungary": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "India": {
+        "Document": {
+          "Passport": {
+            "size": "2*2",
+            "type":"inch"
+          },
+          "VISA": {
+            "size": "2*2",
+            "type":"inch"
+          },
+          "OCI": {
+            "size": "35*35",
+            "type":"mm"
+          },
+          "PAN": {
+            "size": "25*35",
+            "type":"mm"
+          }
+        }
+      },
+      "Indonesia": {
+        "Document": {
+          "Passport": {
+            "size": "2*2",
+            "type":"inch"
+          }
+        }
+      },
+      "Iran": {
+        "Document": {
+          "Passport": {
+            "size": "30*40",
+            "type":"mm"
+          }
+        }
+      },
+      "Ireland": {
+        "Document": {
+          "Passport": {
+            "size": "38*50",
+            "type": "mm"
+          }
+        }
+      },
+      "Israel": {
+        "Document": {
+          "Passport": {
+            "size": "2*2",
+            "type":"inch"
+          }
+        }
+      },
+      "Italy": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "Jamaica": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "Japan": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          },
+          "VISA": {
+            "size": "45*45",
+            "type":"mm"
+          }
+        }
+      },
+      "Kenya": {
+        "Document": {
+          "Passport": {
+            "size": "2*2",
+            "type": "inch"
+          }
+        }
+      },
+      "Korea": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          },
+          "VISA": {
+            "size": "2*2",
+            "type":"inch"
+          }
+        }
+      },
+      "Lebanon": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "Malaysia": {
+        "Document": {
+          "Passport": {
+            "size": "35*50",
+            "type":"mm"
+          }
+        }
+      },
+      "Mexico": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "Morocco": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "Nepal": {
+        "Document": {
+          "GeneralUse": {
+            "size": "2*2",
+            "type":"inch"
+          },
+          "IDCards": {
+            "size": "0.9*1.2",
+            "type":"inch"
+          },
+          "MRPPassport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "Netherlands": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      },
+      "New Zealand": {
+        "Document": {
+          "Passport": {
+            "size": "35*45",
+            "type":"mm"
+          }
+        }
+      }
+    },
+    "Nigeria": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Norway": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Pakistan": {
+      "Document": {
+        "Passport": {
+          "size": "1.5*2",
+          "type":"inch"
+        }
+      }
+    },
+    "Panama": {
+      "Document": {
+        "Passport": {
+          "size": "2*2",
+          "type":"inch"
+        }
+      }
+    },
+    "Peru": {
+      "Document": {
+        "Passport": {
+            "size": "2*2",
+            "type":"inch"
+        }
+      }
+    },
+    "Philippines": {
+      "Document": {
+        "MRPPassport": {
+          "size": "35*45",
+          "type":"mm"
+        },
+        "VISA": {
+            "size": "2*2",
+            "type":"inch"
+        }
+      }
+    },
+    "Poland": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Portugal": {
+      "Document": {
+        "Passport": {
+            "size": "2*2",
+            "type":"inch"
+        },
+        "ID/Citizenship": {
+            "size": "1.5*1.5",
+            "type":"inch"
+        }
+      }
+    },
+    "Romania": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Singapore": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "South Africa": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Spain": {
+      "Document": {
+        "Passport": {
+            "Passport": {
+                "size": "30*40",
+                "type":"mm"
+            }
+        }
+      }
+    },
+    "Sweden": {
+      "Document": {
+        "Passport": {
+            "size": "30*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Switzerland": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Syria": {
+      "Document": {
+        "Passport": {
+            "size": "40*40",
+            "type":"mm"
+        }
+      }
+    },
+    "Taiwan": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Tanzania": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Thailand": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Trinidad and Tobago": {
+      "Document": {
+        "Passport": {
+            "size": "1.75*2",
+            "type":"inch"
+        },
+        "Machine Readable Passport": {
+            "size": "31*41",
+            "type":"mm"
+        }
+      }
+    },
+    "Turkery": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Ukraine": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "UK": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "USA": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Uzbekistan": {
+      "Document": {
+        "Passport": {
+            "size": "35*45",
+            "type":"mm"
+        }
+      }
+    },
+    "Venezuela": {
+      "Document": {
+        "Passport": {
+            "size": "2*2",
+            "type":"inch"
+        }
+      }
+    },
+    "Vietnam": {
+      "Document": {
+        "Passport": {
+            "size": "2*2",
+            "type":"inch"
+        }
+      }
+    },
+    "Zimbabwe": {
+      "Document": {
+        "Passport": {
+            "size": "2*2",
+            "type":"inch"
+        }
+      }
+    }
+  }
